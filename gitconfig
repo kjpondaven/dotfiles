@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jean-antoine.pondaven@usherbrooke.ca
+	name = Jean Antoine Pondaven
